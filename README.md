@@ -1,6 +1,8 @@
 # React Flat Resume Viewer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+GitHub repo: <https://github.com/sbecker11/react-data-vis.git>
+<br/>
+By: Shawn Becker
 
 ![flat resume viewer](src/graphics/flat-resume-viewer.png)
 
@@ -26,6 +28,10 @@ Steps to Get React DevTools Working on Chrome:
 5. It is important to consider the necessary steps for production to ensure that the React app is visible from all browsers.
 
 ## Available Scripts
+
+This project was bootstrapped with 
+[Create React App](https://github.com/facebook/create-react-app).
+
 
 In the project directory, you can run:
 
