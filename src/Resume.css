@@ -5,6 +5,11 @@
     color: white;
     background-color: rgb(82, 82, 82); /* Set a contrasting background color */
   }
+
+  .justified-text {
+    text-align: justify;
+    hyphens: auto;
+  }
   
   .resume h1, .resume h2, .resume h3, .resume h4 {
     margin: 10px 0;

@@ -2,6 +2,27 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Development on Chrome Browser
+
+This page <https://github.com/facebook/react/tree/main> explains what needs to be done to get React to work on Chrome.
+
+Steps to Get React DevTools Working on Chrome:
+
+1. Go to the Chrome Web Store and search for "React Developer Tools".
+   Install the extension to your Chrome browser.
+
+2. Use Chrome settings to allow Chrome to Read Local Files.
+
+3. Open Chrome and navigate to chrome://extensions/.
+   Find the React Developer Tools extension and click on "Details".
+   Enable the "Allow access to file URLs" option to allow the extension to read local files.
+
+4. Add React DevTools to package.json:
+   Open your package.json file.
+   Add "react-devtools": "~5.3.1", as the first entry in the devDependencies section. This ensures that the React DevTools are included as the first component loaded in development.
+
+5. It is important to consider the necessary steps for production to ensure that the React app is visible from all browsers.
+
 ## Available Scripts
 
 In the project directory, you can run:
