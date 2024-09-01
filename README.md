@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React Flat Resume Viewer
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![flat resume viewer](src/graphics/flat-resume-viewer.png)
 
 ## Development on Chrome Browser
 
