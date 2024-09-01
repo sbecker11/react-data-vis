@@ -2,6 +2,7 @@
 .resume {
     font-family: Arial, sans-serif;
     margin: 20px;
+    padding: 20px;
     color: white;
     background-color: rgb(82, 82, 82); /* Set a contrasting background color */
   }
@@ -25,7 +26,7 @@
   }
   
   .resume a {
-    color: #007bff;
+    color: #cde3fb;
     text-decoration: none;
   }
   
